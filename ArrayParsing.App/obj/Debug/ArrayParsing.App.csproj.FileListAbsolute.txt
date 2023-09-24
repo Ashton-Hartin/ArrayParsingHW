@@ -1,0 +1,8 @@
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\bin\Debug\ArrayParsing.App.exe.config
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\bin\Debug\ArrayParsing.App.exe
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\bin\Debug\ArrayParsing.App.pdb
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\obj\Debug\ArrayParsing.App.csproj.AssemblyReference.cache
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\obj\Debug\ArrayParsing.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\obj\Debug\ArrayParsing.App.csproj.CoreCompileInputs.cache
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\obj\Debug\ArrayParsing.App.exe
+C:\Users\ahart\source\repos\ArrayParsing_ashton.hartin\ArrayParsing.App\obj\Debug\ArrayParsing.App.pdb
